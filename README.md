@@ -1,4 +1,5 @@
-[![ls9512's GitHub stats](https://github-readme-stats.vercel.app/api?username=ls9512)](https://github.com/ls9512)
+[![ls9512's GitHub stats](https://github-readme-stats.vercel.app/api?username=ls9512&show_icons=true&include_all_commits=true)](https://github.com/ls9512)
+
 
 ## Profile
 ```
